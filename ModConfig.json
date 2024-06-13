@@ -20,6 +20,11 @@
         "version": ""
       },
       {
+        "modId": "6172FBB03A3D6C10",
+        "name": "REFX - EFFECTS ENHANCEMENT",
+        "version": ""
+      },
+      {
         "modId": "6078A3A24681EFBF",
         "name": "VON UI FOR GAMEMASTERS",
         "version": ""
@@ -155,13 +160,8 @@
         "version": ""
       },
       {
-        "modId": "5D9ECAD071E9ECBC",
-        "name": "HMMWV VARIANTS PACK",
-        "version": ""
-      },
-      {
-        "modId": "60AABE9BEC5FD178",
-        "name": "MK19 VEHICLE MOUNTED ON M1025",
+        "modId": "5C721177A220B42F",
+        "name": "JOINT LIGHT TACTICAL VEHICLE",
         "version": ""
       },
       {
@@ -202,6 +202,11 @@
       {
         "modId": "60902E4EEC2C00FF",
         "name": "AH-1 COBRA",
+        "version": ""
+      },
+      {
+        "modId": "609E138FE9005877",
+        "name": "MI-28",
         "version": ""
       },
       {
@@ -405,6 +410,11 @@
         "version": ""
       },
       {
+        "modId": "6119364328B41814",
+        "name": "REALISTIC MIL MI8MT HELICOPTER",
+        "version": ""
+      },
+      {
         "modId": "6108068653AFDA36",
         "name": "C-15 6NZ SOUND MOD -- UPDATED",
         "version": ""
@@ -437,6 +447,16 @@
       {
         "modId": "6174A376E06661BF",
         "name": "BRUTAL VOICES",
+        "version": ""
+      },
+      {
+        "modId": "613B4DD4A91CA144",
+        "name": "LM SUPPRESSION",
+        "version": ""
+      },
+      {
+        "modId": "6198EC294DEC63C0",
+        "name": "BAD PARACHUTE",
         "version": ""
       },
       {
